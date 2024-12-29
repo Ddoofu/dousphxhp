@@ -4,7 +4,7 @@
     "version": "1.0",
     "authors": [
       {
-        "name": "dor4a",
+        "name": "DDOOFU",
         "id": "455513497288310785"
       }
     ],
@@ -39,7 +39,7 @@
         "EMBED_BACKGROUND": [ "#000000" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#000000" ],
         "HEADER_PRIMARY": [ "#ffff00" ],
-        "HEADER_SECONDARY": [ "#ffffff" ],
+        "HEADER_SECONDARY": [ "#ffff00" ],
         "INPUT_BACKGROUND": [ "#000000" ],
         "INTERACTIVE_ACTIVE": [ "#ffffff" ],
         "INTERACTIVE_HOVER": [ "#ffff00" ],
