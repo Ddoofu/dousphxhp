@@ -51,7 +51,7 @@
         "TEXT_LINK": [ "#FFFF00" ],
         "TEXT_NORMAL": [ "#FFFFFF" ],
         "TEXT_MUTED": [ "#FFFFFF" ],
-        "TEXT_PRIMARY": [ "#FFFFFF" ],
+        "TEXT_PRIMARY": [ "#FFFF00" ],
 	"TEXT_SECONDARY": [ "#FFFF00" ],
         "THREAD_CHANNEL_SPINE": [ "#ffffff" ],
         "BG_BASE_PRIMARY": [ "#000000" ],
