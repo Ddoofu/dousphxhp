@@ -1,6 +1,6 @@
 {
     "name": "Undertale",
-    "description": "Blebleble",
+    "description": "This theme fills you with DETERMINATION",
     "version": "1.0",
     "authors": [
       {
@@ -162,7 +162,7 @@
         "RED_330": "#E1D19C",
         "RED_345": "#E1D19C",
         "RED_360": "#ff0",
-        "RED_400": "#E1D19C",
+        "RED_400": "#FF0000",
         "RED_430": "#E1D19C",
         "RED_460": "#625B43",
         "RED_500": "#AB9F76",
