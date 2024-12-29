@@ -39,7 +39,7 @@
         "EMBED_BACKGROUND": [ "#000000" ],
 		"FORUM_POST_TAG_BACKGROUND": [ "#000000" ],
         "HEADER_PRIMARY": [ "#ffff00" ],
-        "HEADER_SECONDARY": [ "#ffff00" ],
+        "HEADER_SECONDARY": [ "#ffffff" ],
         "INPUT_BACKGROUND": [ "#000000" ],
         "INTERACTIVE_ACTIVE": [ "#ffffff" ],
         "INTERACTIVE_HOVER": [ "#ffff00" ],
@@ -233,7 +233,7 @@
         "BLUE_630": "#0000ff",
         "BLUE_660": "#0000ff",
         "BLUE_700": "#0000ff",
-        "WHITE_630": "#ffffff",
+        "WHITE_630": "#ffff00",
 		"ROLE_DEFAULT": "#000000",
 		"BLACK_460": "#000000"
     },
