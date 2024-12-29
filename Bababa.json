@@ -41,7 +41,7 @@
         "HEADER_PRIMARY": [ "#ffff00" ],
         "HEADER_SECONDARY": [ "#ffff00" ],
         "INPUT_BACKGROUND": [ "#000000" ],
-        "INTERACTIVE_ACTIVE": [ "#ffffff" ],
+        "INTERACTIVE_ACTIVE": [ "#ffff00" ],
         "INTERACTIVE_HOVER": [ "#ffff00" ],
         "INTERACTIVE_MUTED": [ "#ff0000" ],
         "INTERACTIVE_NORMAL": [ "#ffff00" ],
